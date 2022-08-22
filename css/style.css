@@ -97,6 +97,7 @@ h1, h2, h3 {
 
 @media (min-width: 768px) {
   .contenido h2 {
+    text-align: center;
     padding-bottom: 3rem;
   }
   .contenido__imagen {
